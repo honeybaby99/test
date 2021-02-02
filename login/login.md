@@ -13,6 +13,8 @@
 >  ③ 시스템 관리자의 ID와 암호를 넣으시고 **‘로그인’** 버튼을 누르십시오. 암호는 [\[계정\]-\[관리자\]](login.md#54-관리자) 메뉴에서 수정이 가능합니다.  
 >  ④ 시스템 관리자로 초기 암호는 **ID : admin / Password : admin** 입니다
 
-![&#xB85C;&#xADF8;&#xC778;&#xD654;&#xBA74;](../.gitbook/assets/login%20%281%29.png)   
+   
  \[ 그림 1.1 AnyManager 초기 화면\]
+
+![ \[ &#xADF8;&#xB9BC; 1.1 AnyManager &#xCD08;&#xAE30; &#xD654;&#xBA74;\]](../.gitbook/assets/login%20%281%29.png)
 
