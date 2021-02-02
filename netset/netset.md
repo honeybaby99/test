@@ -1,10 +1,9 @@
 # 4.1 계정 개요
+ 
+AnyStor NAS는 네트워크 스토리지입니다. 따라서 외부의 클라이언트가 네트워크를 통해 AnyStor N AS에 접속할 수 있도록 IP 주소를 포함한 네트워크의 설정이 필요합니다. AnyStor NAS는 AnyStor 웹 관리 도구를 활용하여 모든 네트워크 설정이 가능합니다.
 
   
- AnyStor NAS는 네트워크 스토리지입니다. 따라서 외부의 클라이언트가 네트워크를 통해 AnyStor N AS에 접속할 수 있도록 IP 주소를 포함한 네트워크의 설정이 필요합니다. AnyStor NAS는 AnyStor 웹 관리 도구를 활용하여 모든 네트워크 설정이 가능합니다.
-
-  
- AnyStor 웹 관리 도구를 통한 네트워크 설정은 다음과 같습니다.
+AnyStor 웹 관리 도구를 통한 네트워크 설정은 다음과 같습니다.
 
 > A. 네트워크 설정
 >
@@ -30,30 +29,26 @@
 >
 > D. DNS 설정 : 기본 DNS 및 보조 DNS 설정
 
-![netset1.png](../.gitbook/assets/netset1.png)   
- \[ 그림 4.1.1 네트워크 기본 설정을 위한 GUI \]
+![\[ &#xADF8;&#xB9BC; 4.1.1 &#xB124;&#xD2B8;&#xC6CC;&#xD06C; &#xAE30;&#xBCF8; &#xC124;&#xC815;&#xC744; &#xC704;&#xD55C; GUI \]](../.gitbook/assets/netset1.png)
 
 ### ▶ 네트워크 정보
 
 > 각 네트워크 인터페이스에 대한 정보를 보여줍니다. \[그림 4.1.2\]은 각 네트워크 인터페이스에 대한 정보 를 보여주는 GUI입니다.
 
-![netset2.png](../.gitbook/assets/netset2.png)   
- \[ 그림 4.1.2 네트워크 인터페이스 정보 \]
+![\[ &#xADF8;&#xB9BC; 4.1.2 &#xB124;&#xD2B8;&#xC6CC;&#xD06C; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4; &#xC815;&#xBCF4; \]](../.gitbook/assets/netset2.png)
 
 ### ▶ 기본 게이트웨이 설정
 
 > 기본 게이트웨이를 설정할 네트워크 인터페이스를 선택합니다. \[그림 4.1.3\]은 기본 게이트웨이를 설정 하는 GUI입니다.
 
-![netset3.png](../.gitbook/assets/netset3.png)   
- \[ 그림 4.1.3 기본 게이트웨이 설정 \]
+![\[ &#xADF8;&#xB9BC; 4.1.3 &#xAE30;&#xBCF8; &#xAC8C;&#xC774;&#xD2B8;&#xC6E8;&#xC774; &#xC124;&#xC815; \]](../.gitbook/assets/netset3.png)
 
 ### ▶ IP 설정
 
 각 네트워크 인터페이스에 대한 IP 설정을 할 수 있습니다. 다수의 IP가 존재할 경우 시스템 내에 존재하 는 네트워크 인터페이스의 수 만큼의 설정 인터페이스가 생성됩니다. 따라서 관리자는 생성된 설정 인 터페이스에 각 네트워크 어댑터에 대한 설정 값을 입력할 수 있습니다. \[그림 4.1.4\]는 IP 설정을 위한 G UI 입니다.   
  IP 설정은 다음과 같은 순서로 수행합니다.
 
-![netset4.png](../.gitbook/assets/netset4.png)   
- \[ 그림 4.1.4 IP 설정 \]
+![\[ &#xADF8;&#xB9BC; 4.1.4 IP &#xC124;&#xC815; \]](../.gitbook/assets/netset4.png)
 
 > A. **‘이더넷 인터페이스 0’**에 대한 사용 여부를 설정
 >
@@ -71,8 +66,7 @@
 
 ### ▶ 호스트명 설정
 
-![netset5.png](../.gitbook/assets/netset5.png)   
- \[ 그림 4.1.5 호스트명 설정 \]
+![\[ &#xADF8;&#xB9BC; 4.1.5 &#xD638;&#xC2A4;&#xD2B8;&#xBA85; &#xC124;&#xC815; \]](../.gitbook/assets/netset5.png)
 
 > ① 호스트명을 입력합니다.
 >
@@ -80,12 +74,10 @@
 
 ### ▶ DNS 설정
 
-![netset6.png](../.gitbook/assets/netset6.png)   
- \[ 그림 4.1.6 DNS 설정 \]
+![\[ &#xADF8;&#xB9BC; 4.1.6 DNS &#xC124;&#xC815; \]](../.gitbook/assets/netset6.png)
 
 > ① 주 DNS를 설정합니다.
 >
 > ② 보조 DNS를 설정합니다. 이 값은 옵션 사항입니다.
 >
 > ③ 모든 설정이 끝나면 **저장** 버튼을 클릭합니다.
-
