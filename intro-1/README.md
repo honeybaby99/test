@@ -6,6 +6,5 @@ AnyStor NAS 는 CIFS, NFS 및 AppleTalk을 이용한 데이타 공유를 지원�
   
  \[그림 6.1\]은 데이터 공유 설정 화면입니다.
 
-![share.png](../.gitbook/assets/share%20%281%29.png)  
- \[ 그림 6.1.1 AnyManager의 공유 설정 \]
+![\[ &#xADF8;&#xB9BC; 6.1.1 AnyManager&#xC758; &#xACF5;&#xC720; &#xC124;&#xC815; \]](../.gitbook/assets/share%20%281%29.png)
 

@@ -8,8 +8,7 @@
 * 네트워크 인터페이스 카드 정보\(PCI 버스 ID, 모델명\)
 * 호스트 버스 어댑터 카드 정보\(PCI 버스 ID, 모델명\)
 
-  ![system\_detail](../.gitbook/assets/system_detail.png)   
+![system\_detail](../.gitbook/assets/system_detail.png)
 
-
-  \[ 그림 2.6.1  시스템 명세서 \]
+* \[ 그림 2.6.1  시스템 명세서 \]
 

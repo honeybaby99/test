@@ -39,7 +39,7 @@
 >
 > \[그림2.1.3\]은 볼륨의 사용량을 표시하는 예입니다
 
-![ \[ &#xADF8;&#xB9BC; 2.1.3 &#xBCFC;&#xB968; &#xC815;&#xBCF4; \]](../.gitbook/assets/volume.png)
+![ \[ &#xADF8;&#xB9BC; 2.1.3 &#xBCFC;&#xB968; &#xC815;&#xBCF4; \]](../.gitbook/assets/volume%20%281%29.png)
 
 ### 2.1.2 비정상 시스템 상태
 

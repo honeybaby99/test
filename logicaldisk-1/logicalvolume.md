@@ -2,10 +2,9 @@
 
 \[논리 볼륨\] 메뉴는 논리 디스크를 기반으로 가상의 논리 볼륨을 생성하는 역할을 수행합니다. 하나의 논리 디스크에는 하나 이상의 논리 볼륨을 생성할 수 있습니다.
 
-\[그림 3.3.1\]는 논리 볼륨의 설정을 위한 GUI를 나타내고 있습니다.   
-  
-![logicalvolumeset](../.gitbook/assets/logicalvolumeset.png)   
- \[ 그림 3.3.1 논리 볼륨 설정 관리 화면 \]
+\[그림 3.3.1\]는 논리 볼륨의 설정을 위한 GUI를 나타내고 있습니다. 
+
+![\[ &#xADF8;&#xB9BC; 3.3.1 &#xB17C;&#xB9AC; &#xBCFC;&#xB968; &#xC124;&#xC815; &#xAD00;&#xB9AC; &#xD654;&#xBA74; \]](../.gitbook/assets/logicalvolumeset.png)
 
 ## ▶ 논리 볼륨
 
@@ -19,15 +18,9 @@
 
 ③ 논리 디스크를 선택하면 논리 디스크 내에 선택되어 있는 논리 볼륨의 정보를 볼 수 있 습니다.
 
-④ 논리 볼륨은 “논리 볼륨 생성” 항목에서 생성합니다. \[그림 3.3.2\]은 볼륨의 이름이 “LV1” 이고 크기가 10GB 인 볼륨을 생성하는 예입니다.  
-  
+④ 논리 볼륨은 “논리 볼륨 생성” 항목에서 생성합니다. \[그림 3.3.2\]은 볼륨의 이름이 “LV1” 이고 크기가 10GB 인 볼륨을 생성하는 예입니다.
 
-
-![logicalvolumecreate](../.gitbook/assets/logicalvolumecreate.png)   
-  
-\[ 그림 3.3.2 논리 볼륨 생성 \]  
-  
-
+![\[ &#xADF8;&#xB9BC; 3.3.2 &#xB17C;&#xB9AC; &#xBCFC;&#xB968; &#xC0DD;&#xC131; \]](../.gitbook/assets/logicalvolumecreate.png)
 
 ⑤ 원하는 볼륨의 이름을 입력하십시오.
 
@@ -39,12 +32,9 @@
 
 ⑨ 논리 볼륨 이름과 논리 볼륨 크기를 정상적으로 입력하였을 경우 논리 볼륨이 생성됩니 다. 정상적인 입력 값이 입력되지 않았을 경우 에러 메시지가 발생합니다. 에러 메시지가 발생한 경우 메시지 확인 후 적절한 값을 입력하십시오.
 
-⑩ 논리 볼륨의 생성 여부는 **“논리 볼륨 정보”**에서 확인할 수 있습니다. 생성된 볼륨은 자동 으로 마운트 되어 즉각 사용이 가능합니다. 시스템의 비 정상적인 동작으로 인하여 생성 된 볼륨이 마운트 되지 않았을 경우 **“논리 볼륨 정보’** 항목의 **“마운트”** 필드에서 마운트 와 언마운트가 가능합니다.  
-  
+⑩ 논리 볼륨의 생성 여부는 **“논리 볼륨 정보”**에서 확인할 수 있습니다. 생성된 볼륨은 자동 으로 마운트 되어 즉각 사용이 가능합니다. 시스템의 비 정상적인 동작으로 인하여 생성 된 볼륨이 마운트 되지 않았을 경우 **“논리 볼륨 정보’** 항목의 **“마운트”** 필드에서 마운트 와 언마운트가 가능합니다.
 
-
-![logicalvolumeinfo](../.gitbook/assets/logicalvolumeinfo.png)   
- \[ 그림 3.3.3 논리 볼륨 정보 \]
+![\[ &#xADF8;&#xB9BC; 3.3.3 &#xB17C;&#xB9AC; &#xBCFC;&#xB968; &#xC815;&#xBCF4; \]](../.gitbook/assets/logicalvolumeinfo.png)
 
 *  **※ NOTE** 
 
@@ -62,8 +52,7 @@
 
 ④ 해당 볼륨이 공유되어 잇는 경우는 볼륨을 삭제할 수 없습니다. 이 경우 [\[공유\]](logicalvolume.md#8-공유-관리) 메뉴로 가서 해당 볼륨의 공유를 제거하고 난 후 삭제가 가능합니다.
 
-![logicalvolumedelete](../.gitbook/assets/logicalvolumedelete.png)   
- \[ 그림 3.3.4 논리 볼륨 삭제 \]
+![\[ &#xADF8;&#xB9BC; 3.3.4 &#xB17C;&#xB9AC; &#xBCFC;&#xB968; &#xC0AD;&#xC81C; \]](../.gitbook/assets/logicalvolumedelete.png)
 
 *  **※ NOTE** 
 
@@ -77,15 +66,11 @@
 
 ② **확장**버튼을 누르십시오\(그림 3.3.5 참조\)
 
-![logicalvolumeExtend](../.gitbook/assets/logicalvolumeExtend.png)   
- \[ 그림 3.3.5 논리 볼륨 확장 \]
+![\[ &#xADF8;&#xB9BC; 3.3.5 &#xB17C;&#xB9AC; &#xBCFC;&#xB968; &#xD655;&#xC7A5; \]](../.gitbook/assets/logicalvolumeExtend.png)
 
 ③ **“ 확장”** 버튼을 누르면 \[그림 3.3.6\]의 입력 창을 볼 수 있습니다.
 
-![logicalvolumeExtend2](../.gitbook/assets/logicalvolumeExtend2.png)   
- \[ 그림 3.3.6 논리 볼륨 확장을 위한 입력창 \]   
-  
-
+![\[ &#xADF8;&#xB9BC; 3.3.6 &#xB17C;&#xB9AC; &#xBCFC;&#xB968; &#xD655;&#xC7A5;&#xC744; &#xC704;&#xD55C; &#xC785;&#xB825;&#xCC3D; \]](../.gitbook/assets/logicalvolumeExtend2.png)
 
 ④ 확장을 원하는 만큼 크기를 입력하세요. \[그림 3.3.6\]은 2GB를 확장한 예입니다.
 

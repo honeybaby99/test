@@ -34,8 +34,5 @@ Windows 네트워크를 사용하는 클라이언트와의 연결 환경 설정�
 * 컴퓨터 이름\(IP\) : 접속한 컴퓨터 이름과 그 아이피 주소
 * 공유 : 날짜 : 접속한 공유 이름과 접속한 날짜
 
-  ![cifs](../.gitbook/assets/cifs.png)   
-
-
-      \[ 그림 2.2.1  CIFS 상태 \]
+![ \[ &#xADF8;&#xB9BC; 2.2.1  CIFS &#xC0C1;&#xD0DC; \]](../.gitbook/assets/cifs.png)
 

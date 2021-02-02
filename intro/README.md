@@ -17,6 +17,5 @@ AnyStor NAS를 사용하기 위해서는 AnyStor NAS에 계정 등록이 되어 
 >
 > F. NIS 계정 정보
 
-![account1.png](../.gitbook/assets/account1.png)   
- \[ 그림 5.1.1 계정 관리 \]
+![\[ &#xADF8;&#xB9BC; 5.1.1 &#xACC4;&#xC815; &#xAD00;&#xB9AC; \]](../.gitbook/assets/account1.png)
 

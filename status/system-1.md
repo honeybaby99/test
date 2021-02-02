@@ -8,8 +8,5 @@
 * 네트워크 I/O \( Receive , Send \)
 * NFS 서버 IOPS \(Read + Write\)
 
-  
-  
- ![system](../.gitbook/assets/system.png)   
- \[ 그림 2.5.1 시스템 성능 모니터링 결과 히스토리 \]
+![ \[ &#xADF8;&#xB9BC; 2.5.1 &#xC2DC;&#xC2A4;&#xD15C; &#xC131;&#xB2A5; &#xBAA8;&#xB2C8;&#xD130;&#xB9C1; &#xACB0;&#xACFC; &#xD788;&#xC2A4;&#xD1A0;&#xB9AC; \]](../.gitbook/assets/system.png)
 

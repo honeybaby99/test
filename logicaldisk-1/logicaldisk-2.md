@@ -4,8 +4,7 @@
   
  \[그림 3.2.2\]는 논리디스크의 설정을 위한 GUI를 나타내고 있습니다.
 
-![logicaldiskgui](../.gitbook/assets/logicaldiskgui.png)   
- \[ 그림 3.2.2 논리 디스크의 설정 관리 \]
+![ \[ &#xADF8;&#xB9BC; 3.2.2 &#xB17C;&#xB9AC; &#xB514;&#xC2A4;&#xD06C;&#xC758; &#xC124;&#xC815; &#xAD00;&#xB9AC; \]](../.gitbook/assets/logicaldiskgui.png)
 
 ## ▶ 물리디스크
 
@@ -29,13 +28,9 @@
 
   ③ \[그림 3.2.3\]과 같이 **“논리 디스크 이름”**을 입력합니다.
 
-  ④ **“논리 디스크 생성’** 항목에서 **생성** 버튼을 클릭합니다.
+  ④ **“논리 디스크 생성’** 항목에서 **생성** 버튼을 클릭합니다.  
 
-  
- ![logicaldiskcreate](../.gitbook/assets/logicaldiskcreate.png)   
- \[ 그림 3.2.3 논리 디스크의 생성 \]   
-  
-
+![\[ &#xADF8;&#xB9BC; 3.2.3 &#xB17C;&#xB9AC; &#xB514;&#xC2A4;&#xD06C;&#xC758; &#xC0DD;&#xC131; \]](../.gitbook/assets/logicaldiskcreate.png)
 
 * 디스크 스트라이핑을 사용하는 논리 디스크 생성 \( _**옵션 사항 : 기술지원에 문의**_ \)
 
@@ -49,15 +44,13 @@
 
   ⑤ **“논리 디스크 생성’** 항목에서 **생성** 버튼을 클릭합니다.
 
-![logicaldiskcreate2](../.gitbook/assets/logicaldiskcreate2.png)   
- \[ 그림 3.2.4 논리 디스크의 생성 \]
+![\[ &#xADF8;&#xB9BC; 3.2.4 &#xB17C;&#xB9AC; &#xB514;&#xC2A4;&#xD06C;&#xC758; &#xC0DD;&#xC131; \]](../.gitbook/assets/logicaldiskcreate2.png)
 
 * 생성된 논리디스크의 정보는 ‘논리디스크’ 항목에서 확인할 수 있습니다. \[그림3.1.5\]은 앞의 논리 디
 
-  스크 생성 명령에 의해 생성된 논리 디스크의 정보를 표시합니다.
+  스크 생성 명령에 의해 생성된 논리 디스크의 정보를 표시합니다. 
 
-![logicaldiskinfo](../.gitbook/assets/logicaldiskinfo.png)   
- \[ 그림 3.2.5 논리 디스크 정보 표시 \]
+![\[ &#xADF8;&#xB9BC; 3.2.5 &#xB17C;&#xB9AC; &#xB514;&#xC2A4;&#xD06C; &#xC815;&#xBCF4; &#xD45C;&#xC2DC; \]](../.gitbook/assets/logicaldiskinfo.png)
 
 *  **※ NOTE** 
 
@@ -73,9 +66,7 @@
 
 ③ **“논리 디스크 생성’** 항목에서 **생성** 버튼을 클릭합니다.
 
-![logicaldiskextend](../.gitbook/assets/logicaldiskextend.png)   
-  
-\[ 그림 3.2.6 논리 디스크의 확장 \]
+![\[ &#xADF8;&#xB9BC; 3.2.6 &#xB17C;&#xB9AC; &#xB514;&#xC2A4;&#xD06C;&#xC758; &#xD655;&#xC7A5; \]](../.gitbook/assets/logicaldiskextend.png)
 
 ## ▶ 논리디스크 삭제
 

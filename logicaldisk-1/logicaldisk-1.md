@@ -11,6 +11,6 @@ AnyManager의 논리 볼륨 관리자\(LVM: 논리 볼륨 Manager\)는 실제 �
 AnyManager의 볼륨 관리는 \[그림 3.2.1\]에 표현되어 있습니다. 하나 이상의 물리 디스크는 하나의 RAID 0 혹은 RAID5 타입의 논리 디스크로 구성될 수 있으며, 논리 디스크는 하나 이상의 논리 볼륨으로 생성 됩니다.
 
   
- ![storage](../.gitbook/assets/storage.png)   
+ ![storage](../.gitbook/assets/storage%20%281%29.png)   
  \[ 그림 3.2.1 AnyManager의 스토리지 관리 \]
 
