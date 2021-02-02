@@ -1,7 +1,7 @@
 # 1.2  AnyManager 메인 화면
 
 AnyStor NAS의 관리를 위한 메인 관리 화면은 다음과 같습니다.  
-메인 메뉴는 왼쪽 편에 있으며, 오른편 화면에는 각각의 메인 메뉴에 해당하는 서브 메뉴와 서브 메뉴에 해당하는 화면으로 구성됩니다. 
+메인 메뉴는 왼쪽 편에 있으며, 오른편 화면에는 각각의 메인 메뉴에 해당하는 서브 메뉴와 서브 메뉴에 해당하는 화면으로 구성됩니다.
 
 ![\[ &#xADF8;&#xB9BC; 1.2 AnyManager &#xBA54;&#xC778; &#xAD00;&#xB9AC;&#xD654;&#xBA74; \]](../.gitbook/assets/mainview.png)
 
@@ -14,7 +14,7 @@ AnyStor NAS의 관리를 위한 메인 관리 화면은 다음과 같습니다.
 메인 메뉴와 서브 메뉴 및 각 메뉴에 대한 기능이 아래에 간단하게 설명되어 있습니다.
 
 | Menu | Sub Menu | Functions |
-| :---		| :---		| :---		|
+| :--- | :--- | :--- |
 | **Logout** |  | AnyStor NAS GW 세션 종료 |
 | **시스템 정보** | 시스템 정보 | CPU, Memory, Hardware, 볼륨 정보 |
 |  | CIFS 상태 | CIFS 서비스 상태 |
@@ -44,3 +44,4 @@ AnyStor NAS의 관리를 위한 메인 관리 화면은 다음과 같습니다.
 |  | 유지관리 | System Config and 로그 Backup,    버전 업그레이드, 시스템 설정 정보 재설정 및 초기화 |
 |  | 라이센스 | AnyStor 라이센스 관리 |
 |  | 전원 | Quick Reboot, Quick 전원끄기, 시스템 체크 |
+
