@@ -4,7 +4,7 @@
 
 시스템 상태는 CPU, 메모리, 하드웨어\(보드 지원 시\), 볼륨 상태정보 그리고 시스템 상태가 비정상적 이거나 주의를 할 사항이 있을 시 그것들의 목록을 보여줌으로써 관리자가 시스템의 현재상태를 알기 쉽도록 도와줍니다.
 
-![\[ &#xADF8;&#xB9BC; 2.1 &#xC2DC;&#xC2A4;&#xD15C; &#xC815;&#xBCF4; &#xCD08;&#xAE30; &#xD654;&#xBA74; \]](../.gitbook/assets/status%20%281%29%20%281%29.png)
+![\[ &#xADF8;&#xB9BC; 2.1 &#xC2DC;&#xC2A4;&#xD15C; &#xC815;&#xBCF4; &#xCD08;&#xAE30; &#xD654;&#xBA74; \]](../.gitbook/assets/status%20%281%29.png)
 
 ### 2.1.1 시스템 자원
 
@@ -16,7 +16,7 @@
 >
 > 아래 그림은 메모리 BAR에 마우스를 가져갔을 때의 화면입니다.
 
-![ \[ &#xADF8;&#xB9BC; 2.1.1 CPU&#xC640; Memory &#xC0AC;&#xC6A9;&#xB7C9; &#xC815;&#xBCF4;\]](../.gitbook/assets/cpu%20%281%29.png)
+![ \[ &#xADF8;&#xB9BC; 2.1.1 CPU&#xC640; Memory &#xC0AC;&#xC6A9;&#xB7C9; &#xC815;&#xBCF4;\]](../.gitbook/assets/cpu%20%281%29%20%281%29.png)
 
 #### ▶ 하드웨어
 
@@ -32,7 +32,7 @@
 >
 > \[그림2.1.3\]은 볼륨의 사용량을 표시하는 예입니다
 
-![ \[ &#xADF8;&#xB9BC; 2.1.3 &#xBCFC;&#xB968; &#xC815;&#xBCF4; \]](../.gitbook/assets/volume%20%281%29%20%281%29.png)
+![ \[ &#xADF8;&#xB9BC; 2.1.3 &#xBCFC;&#xB968; &#xC815;&#xBCF4; \]](../.gitbook/assets/volume%20%281%29.png)
 
 ### 2.1.2 비정상 시스템 상태
 
@@ -40,5 +40,5 @@
 >
 > \[그림 2.1.4\]는 강제적으로 비정상적인 시스템 상태를 발생시킨 후 목록의 예입니다
 
-![ \[ &#xADF8;&#xB9BC; 2.1.4 &#xBE44;&#xC815;&#xC0C1; &#xC2DC;&#xC2A4;&#xD15C;&#xC0C1;&#xD0DC; \]](../.gitbook/assets/unnomal%20%281%29%20%281%29.png)
+![ \[ &#xADF8;&#xB9BC; 2.1.4 &#xBE44;&#xC815;&#xC0C1; &#xC2DC;&#xC2A4;&#xD15C;&#xC0C1;&#xD0DC; \]](../.gitbook/assets/unnomal%20%281%29.png)
 

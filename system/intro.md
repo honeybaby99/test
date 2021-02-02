@@ -18,5 +18,5 @@
 >
 > G. \[전원\]- 시스템 종료 : 시스템 종료 및 재시작 기능 제공
 
-![\[ &#xADF8;&#xB9BC; 7.1.1 &#xC2DC;&#xC2A4;&#xD15C; &#xCD08;&#xAE30; &#xD654;&#xBA74;\]](../.gitbook/assets/system_intro%20%281%29.png)
+![\[ &#xADF8;&#xB9BC; 7.1.1 &#xC2DC;&#xC2A4;&#xD15C; &#xCD08;&#xAE30; &#xD654;&#xBA74;\]](../.gitbook/assets/system_intro%20%282%29.png)
 
