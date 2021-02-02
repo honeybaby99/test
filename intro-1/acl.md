@@ -4,8 +4,7 @@ ACL은 파일 및 폴더에 접근이 허가된 사용자 또는 그룹과 이�
 
 * ※ ACL 관리자는 Anystor 5 이전 버전에서는 공유 접근모드가 ACL 인 경우에 사용가능합니다
 
-![acl.png](../.gitbook/assets/acl.png)  
- \[ 그림 6.9 ACL 관리자 초기 화면 \]
+![acl.png](../.gitbook/assets/acl.png)
 
 ## 6.9.1 주요 기능
 
@@ -13,8 +12,9 @@ ACL은 파일 및 폴더에 접근이 허가된 사용자 또는 그룹과 이�
 
 Anystor NAS 의 공유는 이미 생성된 공유의 하위 디렉토리에 대 해 또 다른 공유가 가능한 계층구조를 가집니다. 생성된 공유들 사이에서 이러한 계층을 확인하기 위해 공유 경로를 일일이 비교 하는 것은 공유정보가 많을 경우, 어려워 집니다. 그러나 ACL 관 리자의 공유트리는 공유정보들 사이의 계층구조를 트리형식으로 표시함으로써 관리자가 공유구조를 파악하는데 편의를 제공합니 다.
 
-![acltree.png](../.gitbook/assets/acltree.png) ![acl1.png](../.gitbook/assets/acl1.png)  
- \[ 그림 6.9.1 ACL 관리자 – 공유 정보 \]
+![](../.gitbook/assets/acltree.png)
+
+![\[ &#xADF8;&#xB9BC; 6.9.1 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; &#xACF5;&#xC720; &#xC815;&#xBCF4; \]](../.gitbook/assets/acl1.png)
 
 ### ▶ 공유 및 디렉토리, 파일 사용자/그룹 접근 제어
 
@@ -22,8 +22,7 @@ Anystor NAS 의 공유는 이미 생성된 공유의 하위 디렉토리에 대 
 >
 > B. \[ 그림 6.9.2 \] 는 \[ 그림 6.9.1 \] 의 공유test1에 설정된 접근정보를 열람한 모습입니다 . 새로운 사용자 또는 그룹을 추가하거나 기존 사용자 또는 그룹을 수정/삭제 할 수 있 으며 상속과 관련한 명령을 수행할 수 있습니다.
 
-![acl2.png](../.gitbook/assets/acl2.png)  
- \[ 그림 6.9.2 ACL 관리자 – 공유 접근 제어 \]
+![\[ &#xADF8;&#xB9BC; 6.9.2 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; &#xACF5;&#xC720; &#xC811;&#xADFC; &#xC81C;&#xC5B4; \]](../.gitbook/assets/acl2.png)
 
 * **※ NOTE**
 
@@ -41,8 +40,7 @@ ACL관리자의 초기화면에서 각 공유의 이름과 공유경로, 공유�
   
  공유의 최상위에서 설정된 ACL정보를 보려면 각 공유의 ACL 필드의 보기 버튼을 클릭합니다.
 
-![acl3.png](../.gitbook/assets/acl3.png)  
- \[ 그림 6.9.3 ACL 관리자 – 공유 접근제어 정보보기 \]
+![\[ &#xADF8;&#xB9BC; 6.9.3 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; &#xACF5;&#xC720; &#xC811;&#xADFC;&#xC81C;&#xC5B4; &#xC815;&#xBCF4;&#xBCF4;&#xAE30; \]](../.gitbook/assets/acl3.png)
 
 ### ▶ 접근모드와 ACL 초기화
 
@@ -66,8 +64,7 @@ ACL관리자의 초기화면에서 각 공유의 이름과 공유경로, 공유�
 
 > C. ACL 초기화는 선택한 공유에 적용된 사용자와 그룹을 모두 삭제하고 소유주와 소유그 룹, 모든 사용자에 대한 접근권한을 상속 없이 읽기,쓰기가 모두 가능한 상태로 초기화 합니다. 이 상태는 Allow/Deny 모드를 이용한 공유 시 유용한 환경이며, ACL 을 처음부 터 다시 적용할 경우에 사용 가능합니다. 단, 공유 이하의 파일 및 폴더가 많을 경우 초 기화가 완료될 때까지 오래 걸릴 수 있습니다. 초기화가 진행 중에는 다른 ACL 설정\( 상속 및 ACL 설정 \)을 하실 수 없습니다.
 
-![acl4.png](../.gitbook/assets/acl4.png)  
- \[ 그림 6.9.4 ACL 관리자 – 접근모드와 ACL 초기화 \]
+![\[ &#xADF8;&#xB9BC; 6.9.4 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; &#xC811;&#xADFC;&#xBAA8;&#xB4DC;&#xC640; ACL &#xCD08;&#xAE30;&#xD654; \]](../.gitbook/assets/acl4.png)
 
 ## 6.9.4 접근권한 설정
 
@@ -81,28 +78,23 @@ ACL관리자의 초기화면에서 각 공유의 이름과 공유경로, 공유�
 >
 > D. \[ 그림 6.9.7 \]은 사용자/그룹 추가가 적용된 모습입니다.
 
-![acl5.png](../.gitbook/assets/acl5.png)  
- \[ 그림 6.9.5 ACL 관리자 – ACL 설정 \]
+![\[ &#xADF8;&#xB9BC; 6.9.5 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; ACL &#xC124;&#xC815; \]](../.gitbook/assets/acl5.png)
 
-![acl6.png](../.gitbook/assets/acl6.png)  
- \[ 그림 6.9.6 ACL 관리자 – ACL 사용자/그룹 추가 \]
+![\[ &#xADF8;&#xB9BC; 6.9.6 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; ACL &#xC0AC;&#xC6A9;&#xC790;/&#xADF8;&#xB8F9; &#xCD94;&#xAC00; \]](../.gitbook/assets/acl6.png)
 
-![acl7.png](../.gitbook/assets/acl7.png)  
- \[ 그림 6.9.7 ACL 관리자 – ACL 사용자/그룹 추가 적용 \]
+![\[ &#xADF8;&#xB9BC; 6.9.7 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; ACL &#xC0AC;&#xC6A9;&#xC790;/&#xADF8;&#xB8F9; &#xCD94;&#xAC00; &#xC801;&#xC6A9; \]](../.gitbook/assets/acl7.png)
 
 ### ▶ 접근 권한 수정
 
 > A. \[ 그림 6.9.8 \]은 추가된 사용자와 그룹의 권한을 수정하기 위한 화면입니다. 사용자 권한이 추가되면 OWNER와 GROUP, OTHER 는 자동으로 상속됩니다. 수정할 사용자 또는 그룹의 체크박스를 선택하고 **수정** 버튼을 클릭합니다.
 
-![acl8.png](../.gitbook/assets/acl8.png)  
- \[ 그림 6.9.8 ACL 관리자 – ACL 사용자/그룹 수정\]
+![\[ &#xADF8;&#xB9BC; 6.9.8 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; ACL &#xC0AC;&#xC6A9;&#xC790;/&#xADF8;&#xB8F9; &#xC218;&#xC815;\]](../.gitbook/assets/acl8.png)
 
 > B. \[ 그림 6.9.9 \]는 권한 과 상속설정을 수정하는 화면입니다. 선택한 사용자와 그룹은 화면 좌측에 목록을 표시해 줍니다. 이 과정에서는 읽기 권한으로 설정되었던 사용자 와 그룹을 읽기/쓰기 권한으로 변경하였습니다. 권한으로 설정 가능한 옵션은 이전권 한유지와 읽기, 읽기/쓰기, 권한없음 입니다. 상속설정은 이전 상속을 그대로 사용하도 록 이전상속유지 로 설정합니다. 설정가능한 옵션은 이전상속유지와 상속, 상속안함 입 니다.
 >
 > C. 설정이 완료되면 **적용**버튼을 클릭합니다
 
-![acl9.png](../.gitbook/assets/acl9.png)  
- \[ 그림 6.9.9 ACL 관리자 – ACL 사용자/그룹 수정 설정 \]
+![\[ &#xADF8;&#xB9BC; 6.9.9 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; ACL &#xC0AC;&#xC6A9;&#xC790;/&#xADF8;&#xB8F9; &#xC218;&#xC815; &#xC124;&#xC815; \]](../.gitbook/assets/acl9.png)
 
 ### ▶ 접근 권한 삭제
 
@@ -110,8 +102,7 @@ ACL관리자의 초기화면에서 각 공유의 이름과 공유경로, 공유�
 >
 > B. ACL 정보 삭제를 확인하는 창에서 확인을 선택하시면 선택된 사용자 또는 그룹이 삭제 됩니다.
 
-![acl10.png](../.gitbook/assets/acl10.png)  
- \[ 그림 6.9.10 ACL 관리자 – ACL 사용자/그룹 삭제 \]
+![\[ &#xADF8;&#xB9BC; 6.9.10 ACL &#xAD00;&#xB9AC;&#xC790; &#x2013; ACL &#xC0AC;&#xC6A9;&#xC790;/&#xADF8;&#xB8F9; &#xC0AD;&#xC81C; \]](../.gitbook/assets/acl10.png)
 
 ### ▶ 접근 권한 상속
 
