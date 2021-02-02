@@ -1,12 +1,9 @@
 # 1.2  AnyManager 메인 화면
 
 AnyStor NAS의 관리를 위한 메인 관리 화면은 다음과 같습니다.  
-메인 메뉴는 왼쪽 편에 있으며, 오른편 화면에는 각각의 메인 메뉴에 해당하는 서브 메뉴와 서브 메뉴에 해당하는 화면으로 구성됩니다.   
-  
+메인 메뉴는 왼쪽 편에 있으며, 오른편 화면에는 각각의 메인 메뉴에 해당하는 서브 메뉴와 서브 메뉴에 해당하는 화면으로 구성됩니다. 
 
-
-![mainview](../.gitbook/assets/mainview.png)   
- \[ 그림 1.2 AnyManager 메인 관리화면 \]
+![\[ &#xADF8;&#xB9BC; 1.2 AnyManager &#xBA54;&#xC778; &#xAD00;&#xB9AC;&#xD654;&#xBA74; \]](../.gitbook/assets/mainview.png)
 
 ## 1.2.1 상태 모니터
 
